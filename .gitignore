@@ -27,3 +27,8 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x00-csharp-hello_world/3-writeline/obj/3-writeline.csproj.nuget.g.props
 0x00-csharp-hello_world/3-writeline/obj/3-writeline.csproj.nuget.g.targets
 0x00-csharp-hello_world/3-writeline/obj/project.assets.json
+0x00-csharp-hello_world/4-print_integer/obj/4-print_integer.csproj.nuget.cache
+0x00-csharp-hello_world/4-print_integer/obj/4-print_integer.csproj.nuget.dgspec.json
+0x00-csharp-hello_world/4-print_integer/obj/4-print_integer.csproj.nuget.g.props
+0x00-csharp-hello_world/4-print_integer/obj/4-print_integer.csproj.nuget.g.targets
+0x00-csharp-hello_world/4-print_integer/obj/project.assets.json
