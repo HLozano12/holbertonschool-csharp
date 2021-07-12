@@ -17,3 +17,8 @@ obj/holbertonschool-csharp.csproj.nuget.dgspec.json
 obj/holbertonschool-csharp.csproj.nuget.g.props
 obj/holbertonschool-csharp.csproj.nuget.g.targets
 obj/project.assets.json
+obj/project.assets.json
+obj/holbertonschool-csharp.csproj.nuget.g.targets
+obj/holbertonschool-csharp.csproj.nuget.g.props
+obj/holbertonschool-csharp.csproj.nuget.dgspec.json
+obj/holbertonschool-csharp.csproj.nuget.cache
