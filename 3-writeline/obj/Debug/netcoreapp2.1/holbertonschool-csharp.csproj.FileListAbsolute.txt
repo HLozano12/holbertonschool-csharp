@@ -1,0 +1,4 @@
+C:\Users\HLR85\OneDrive\Documents\Holberton\GitHub\holbertonschool-csharp\3-writeline\obj\Debug\netcoreapp2.1\holbertonschool-csharp.csprojAssemblyReference.cache
+C:\Users\HLR85\OneDrive\Documents\Holberton\GitHub\holbertonschool-csharp\3-writeline\obj\Debug\netcoreapp2.1\holbertonschool-csharp.csproj.CoreCompileInputs.cache
+C:\Users\HLR85\OneDrive\Documents\Holberton\GitHub\holbertonschool-csharp\3-writeline\obj\Debug\netcoreapp2.1\holbertonschool-csharp.AssemblyInfoInputs.cache
+C:\Users\HLR85\OneDrive\Documents\Holberton\GitHub\holbertonschool-csharp\3-writeline\obj\Debug\netcoreapp2.1\holbertonschool-csharp.AssemblyInfo.cs
