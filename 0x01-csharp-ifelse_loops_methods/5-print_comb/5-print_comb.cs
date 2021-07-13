@@ -9,9 +9,9 @@ namespace _5_print_comb
             for  (int numb = 00; numb <= 00; numb++)
 			{
 				if (numb == 99)
-					Console.WriteLine($"{numb}");
+					Console.Write($"{numb}\n");
 				else
-					Console.WriteLine($"{numb / 10}{numb % 10}, ");
+					Console.Write($"{numb / 10}{numb % 10}, ");
 			}
         }
     }
