@@ -2,9 +2,9 @@
 
 namespace _7_islower
 {
-    class Program
+    class Character
     {
-        static void Main(string[] args)
+        public static bool IsLower(char c)
         {
             if (h >= 'a' && h <= 'z')
 			{
