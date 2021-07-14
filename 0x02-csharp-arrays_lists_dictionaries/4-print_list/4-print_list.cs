@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic; // for error CS0308
 
 
     class List
@@ -18,7 +19,7 @@
         	List<int> list = new List<int>();
         	for (int h = 0; h < size; h++)
         	{
-            	list.Add(i);
+            	list.Add(h);
         	}
         	foreach (int h in list)
         	{
