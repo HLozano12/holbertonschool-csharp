@@ -6,7 +6,7 @@ using System.Collections.Generic;
         public static int MaxInteger(List<int> myList)
 		// Return largest element in a given list
 		// if list empty, print "List is empty" and return -1
-		// Not allowed to use .Max()
+		// Not allowed to use Max()
         {
             if (myList.Count == 0 || myList == null)
         	{
