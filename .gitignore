@@ -531,3 +531,7 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/netcoreapp2.1/8-linkedlist_find.csprojAssemblyReference.cache
 0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/netcoreapp2.1/8-linkedlist_find.dll
 0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/netcoreapp2.1/8-linkedlist_find.pdb
+0x03-csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
