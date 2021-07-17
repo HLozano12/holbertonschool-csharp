@@ -610,3 +610,17 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.runtimeconfig.json
 0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.dll
 0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.pdb
+0x02-csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/13-linkedlist_delete.cs
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/13-linkedlist_delete.csproj
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/13-linkedlist_delete.csproj.nuget.cache
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/13-linkedlist_delete.csproj.nuget.dgspec.json
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/13-linkedlist_delete.csproj.nuget.g.props
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/13-linkedlist_delete.csproj.nuget.g.targets
+0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/project.assets.json
