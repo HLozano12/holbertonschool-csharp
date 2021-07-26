@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using MyMath;
+using System;
 
 namespace MyMath.Tests
 {
@@ -18,7 +19,7 @@ namespace MyMath.Tests
 		[Test]
 		public void Add_Pos_Neg()
 		{
-			Assert.AreEqual(6, Operations.Add(-2, 4));
+			Assert.AreEqual(2, Operations.Add(-2, 4));
 		}
     }
 }
