@@ -3,17 +3,22 @@ using MyMath;
 
 namespace MyMath.Tests
 {
-    public class Tests
+	/// <summary> test for .Add() method</summary>
+    [TestFixture]
+	public class AddTests
     {
-        [SetUp]
-        public void Setup()
+		/// <summary> Test Operations.Add() 2 pos ints </summary> 
+        [Test]
+        public void Sum_Positive()
         {
+            Assert.AreEqual(6, Operations.Add(2, 4));
         }
 
-        [Test]
-        public void Test1()
-        {
-            Assert.Pass();
-        }
+		/// <summary> Test Oppoerations.Add() method with pos & neg ints </summary>
+		[Test]
+		public void Add_Pos_Neg()
+		{
+			Assert.AreEqual(6, Operations.Add(-2, 4));
+		}
     }
 }
