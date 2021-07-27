@@ -6,7 +6,7 @@ namespace MyMath
     ///<summary>Define functions in the Operations class</summary>
     public class Operations
     {
-        ///<summary>Max method returns max int in a given list</summary>
+        ///<summary>Max returns max int in a given list</summary>
         public static int Max(List<int> nums)
         {
             if (nums.Count == 0)
