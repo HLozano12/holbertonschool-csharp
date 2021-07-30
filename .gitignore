@@ -971,3 +971,15 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x08-csharp-inheritance/3-type_get/obj/3-type_get.csproj.nuget.g.props
 0x08-csharp-inheritance/3-type_get/obj/3-type_get.csproj.nuget.g.targets
 0x08-csharp-inheritance/3-type_get/obj/project.assets.json
+0x07-csharp-tdd/jacob
+0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs
+0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.assets.cache
+0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.AssemblyReference.cache
+0x07-csharp-tdd/0-add/MyMath.Tests/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x07-csharp-tdd/0-add/MyMath.Tests/obj/Debug/netcoreapp2.1/MyMath.Tests.assets.cache
+0x07-csharp-tdd/0-add/MyMath.Tests/obj/Debug/netcoreapp2.1/MyMath.Tests.csproj.AssemblyReference.cache
+0x08-csharp-inheritance/4-inherit/obj/4-inherit.csproj.nuget.cache
+0x08-csharp-inheritance/4-inherit/obj/4-inherit.csproj.nuget.dgspec.json
+0x08-csharp-inheritance/4-inherit/obj/4-inherit.csproj.nuget.g.props
+0x08-csharp-inheritance/4-inherit/obj/4-inherit.csproj.nuget.g.targets
+0x08-csharp-inheritance/4-inherit/obj/project.assets.json
