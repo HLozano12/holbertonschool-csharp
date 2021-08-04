@@ -987,3 +987,9 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.dgspec.json
 0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.g.props
 0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.g.targets
+0x01-csharp-generics/0-queue/obj/project.assets.json
+0x01-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+0x01-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.AssemblyInfo.cs
+0x01-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.AssemblyInfoInputs.cache
+0x01-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.assets.cache
+0x01-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.csproj.AssemblyReference.cache
