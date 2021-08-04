@@ -1051,3 +1051,10 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x01-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.csprojAssemblyReference.cache
 0x01-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.dll
 0x01-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.pdb
+0x01-csharp-generics/1-enqueue/obj/project.assets.json
+0x01-csharp-generics/4-print/obj/4-print.csproj.nuget.cache
+0x01-csharp-generics/4-print/obj/4-print.csproj.nuget.dgspec.json
+0x01-csharp-generics/4-print/obj/4-print.csproj.nuget.g.props
+0x01-csharp-generics/4-print/obj/4-print.csproj.nuget.g.targets
+0x01-csharp-generics/4-print/obj/project.assets.json
+0x04-csharp-exceptions/4-throw_exception_msg/main.cs
