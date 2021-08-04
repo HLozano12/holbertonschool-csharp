@@ -983,3 +983,7 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x08-csharp-inheritance/4-inherit/obj/4-inherit.csproj.nuget.g.props
 0x08-csharp-inheritance/4-inherit/obj/4-inherit.csproj.nuget.g.targets
 0x08-csharp-inheritance/4-inherit/obj/project.assets.json
+0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.cache
+0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.dgspec.json
+0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.g.props
+0x01-csharp-generics/0-queue/obj/0-queue.csproj.nuget.g.targets
