@@ -31,7 +31,7 @@ class Player
         HPCheck += CheckStatus;
     }
 
-	///<summary> Max Health Check <summary>
+	///<summary> Max Health Check </summary>
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
         if (e.currentHp == this.maxHp)
