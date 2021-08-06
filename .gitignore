@@ -1181,3 +1181,7 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/18-matrix_matrix_mul.csproj.nuget.g.props
 0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/18-matrix_matrix_mul.csproj.nuget.g.targets
 0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/project.assets.json
+0x00-csharp-linear_algebra/20-matrix_rotate_2D/obj/20-matrix_rotate_2D.csproj.nuget.cache
+0x00-csharp-linear_algebra/20-matrix_rotate_2D/obj/20-matrix_rotate_2D.csproj.nuget.dgspec.json
+0x00-csharp-linear_algebra/20-matrix_rotate_2D/obj/20-matrix_rotate_2D.csproj.nuget.g.props
+0x00-csharp-linear_algebra/20-matrix_rotate_2D/obj/20-matrix_rotate_2D.csproj.nuget.g.targets
