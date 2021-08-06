@@ -29,7 +29,7 @@ class MatrixMath
             {
                 temp += matrix1[h, l] * matrix2[l, k];
             }
-            ProdMatrix[i,j] = temp;
+            ProdMatrix[h,k] = temp;
         }
     }
     return ProdMatrix;
