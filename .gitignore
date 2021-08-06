@@ -1156,3 +1156,8 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x00-csharp-linear_algebra/6-vector_addition/obj/6-vector_addition.csproj.nuget.g.props
 0x00-csharp-linear_algebra/6-vector_addition/obj/6-vector_addition.csproj.nuget.g.targets
 0x00-csharp-linear_algebra/6-vector_addition/obj/project.assets.json
+0x00-csharp-linear_algebra/9-vector_scalar_mul/obj/9-vector_scalar_mul.csproj.nuget.cache
+0x00-csharp-linear_algebra/9-vector_scalar_mul/obj/9-vector_scalar_mul.csproj.nuget.dgspec.json
+0x00-csharp-linear_algebra/9-vector_scalar_mul/obj/9-vector_scalar_mul.csproj.nuget.g.props
+0x00-csharp-linear_algebra/9-vector_scalar_mul/obj/9-vector_scalar_mul.csproj.nuget.g.targets
+0x02-csharp-interfaces/2-doors/obj/project.assets.json
