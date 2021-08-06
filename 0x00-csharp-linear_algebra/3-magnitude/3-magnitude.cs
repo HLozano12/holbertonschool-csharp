@@ -18,7 +18,7 @@ class VectorMath
             result = (Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)));
             return Math.Round(result, 2);
             }
-		///<summary> if not 2D or 3D </sumarry>	
+		///<summary> if not 2D or 3D </summary>	
         else
             return -1;
     }
