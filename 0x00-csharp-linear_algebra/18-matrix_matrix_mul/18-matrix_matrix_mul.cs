@@ -1,6 +1,6 @@
 ﻿using System;
 
-///<summary> 
+///<summary> Matrix Class </summary> 
 class MatrixMath
 {
     ///<summary>Prototype given for multipling two matrices </summary>
