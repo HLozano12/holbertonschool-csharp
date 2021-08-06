@@ -1176,3 +1176,8 @@ obj/holbertonschool-csharp.csproj.nuget.cache
 0x00-csharp-linear_algebra/16-matrix_scalar_mul/obj/16-matrix_scalar_mul.csproj.nuget.g.props
 0x00-csharp-linear_algebra/16-matrix_scalar_mul/obj/16-matrix_scalar_mul.csproj.nuget.g.targets
 0x00-csharp-linear_algebra/16-matrix_scalar_mul/obj/project.assets.json
+0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/18-matrix_matrix_mul.csproj.nuget.cache
+0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/18-matrix_matrix_mul.csproj.nuget.dgspec.json
+0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/18-matrix_matrix_mul.csproj.nuget.g.props
+0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/18-matrix_matrix_mul.csproj.nuget.g.targets
+0x00-csharp-linear_algebra/18-matrix_matrix_mul/obj/project.assets.json
