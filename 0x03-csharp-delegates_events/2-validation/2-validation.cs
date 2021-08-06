@@ -1,9 +1,9 @@
 ﻿using System;
 
-///<summary>Public Class for Player</summary>
+///<summary>Player Class</summary>
 class Player
 {
-    ///<summary> Private classes </summary>
+    ///<summary> Private Class</summary>
     private string name { get; set; }
     private float maxHp { get; set; }
     private float hp { get; set; }
@@ -25,7 +25,7 @@ class Player
         this.hp = this.maxHp;
     }
 
-    ///<summary> Protptype prints health</summary>
+    ///<summary> prints health</summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{this.name} has {this.hp} / {this.maxHp} health");
@@ -43,6 +43,8 @@ class Player
         {
             System.Console.WriteLine("{0} takes {1} damage!", this.name, damage);
         }
+        this.hp -= damage;
+        ValidateHP(this.hp);
     }
     public void HealDamage(float heal)
     {
@@ -55,15 +57,24 @@ class Player
         {
             System.Console.WriteLine("{0} heals {1} HP!", this.name, heal);
         }
+        this.hp += heal;
+        ValidateHP(this.hp);
     }
 
-	public void ValidateHP(float newHp)
+    public void ValidateHP(float newHp)
     {
-        if (newHp < 0)
-            hp = 0;
-        else if (newHp > maxHp)
-            hp = maxHp;
+        if (newHp < 0f)
+        {
+            this.hp = 0f;
+        }
+        else if (newHp > this.maxHp)
+        {
+            this.hp = maxHp;
+        }
         else
-            hp = newHp;        
+        {
+            this.hp = newHp;
+        }
     }
+
 }
