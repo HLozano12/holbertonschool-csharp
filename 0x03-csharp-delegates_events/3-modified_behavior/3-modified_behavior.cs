@@ -1,7 +1,6 @@
 ﻿using System;
 
-
-///<summary>Player Class</summary>
+///<summary> Player Class </summary>
 class Player
 {
     ///<summary> Private Classes </summary>
@@ -9,7 +8,7 @@ class Player
     private float maxHp { get; set; }
     private float hp { get; set; }
 
-    ///<summary> constructor for the player stats</summary>
+    ///<summary> constructor for the player stats </summary>
     public Player(string name = "Player", float maxHp = 100f)
     {
         if (maxHp <= 0f)
@@ -26,13 +25,14 @@ class Player
         this.hp = this.maxHp;
     }
 
-    ///<summary> prints health</summary>
+    ///<summary> prints health </summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{this.name} has {this.hp} / {this.maxHp} health");
     }
 
     delegate void CalculateHealth(float health);
+	///<summary> Float for damage taken </summary>
     public void TakeDamage(float damage)
     {
         if (damage < 0f)
@@ -47,6 +47,7 @@ class Player
         this.hp -= damage;
         ValidateHP(this.hp);
     }
+	///<summary> Calculates the healing </summary>
     public void HealDamage(float heal)
     {
         if (heal < 0f)
